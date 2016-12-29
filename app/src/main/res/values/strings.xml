@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BluetoothControl</string>
+    <string name="finger_value">Finger %d</string>
+    <string name="save">Save On Hand</string>
+</resources>
